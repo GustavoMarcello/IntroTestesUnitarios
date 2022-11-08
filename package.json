@@ -1,0 +1,23 @@
+{
+  "name": "introtestesunitarios",
+  "version": "1.0.0",
+  "description": "Código teórico de introdução a Testes unitários (TDD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMarcello/IntroTestesUnitarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMarcello/IntroTestesUnitarios/issues"
+  },
+  "homepage": "https://github.com/GustavoMarcello/IntroTestesUnitarios#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
